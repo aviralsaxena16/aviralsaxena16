@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aviral&show_icons=true&theme=github_dark&hide_border=true" alt="Aviral's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aviralsaxena16&show_icons=true&theme=github_dark&hide_border=true" alt="Aviral's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral&theme=github-dark&hide_border=true" />
 </p>
 
