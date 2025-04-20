@@ -22,25 +22,24 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aviralsaxena16&show_icons=true&theme=github_dark&hide_border=true" alt="Aviral's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aviralsaxena16&show_icons=true&theme=github_dark&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralsaxena16&layout=compact&theme=github_dark" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aviralsaxena16&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 ---
 
-### 🚀 Let's Connect!
+### 📫 Let's Connect!
+
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
-  </a>
-  <a href="https://instagram.com/yourhandle">
-    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" />
-  </a>
+  <a href="mailto:avirals@iitbhilai.ac.in"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aviral-saxena-528598320" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://github.com/aviralsaxena16"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
 </p>
 
 ---
