@@ -2,17 +2,17 @@
 <h3 align="center">Explorer | Developer | Coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Developer+%7C+CP+%7C+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Developer+%7C+Open Source+%7C+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me:
 - 🎓 I'm a Computer Science undergrad with a curious mind
-- 🧠 Learning **Machine Learning**, **MERN Stack**, and **DSA**
-- ⚡ Currently building: **Eduverse**, **Campus Connect**, **WealthX** and Many more...!
+- 🧠 Learning **Machine Learning**, **App Development**, and **DSA**
+- ⚡ Currently working on:  **Campus Connect**, **CanonForces** and Many more...!
 - 💬 Ask me about: Python, JavaScript,MERN, Tailwind CSS, Git, MongoDB
-- 🌱 Goal for 2025: Be **consistent** on Codeforces & grow my dev skills
+- 🌱 Goal for 2025: Be **consistent** on Codeforces & contribute to Open source
 - 😄 Pronouns: he/him
 
 ---
