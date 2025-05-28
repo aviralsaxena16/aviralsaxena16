@@ -2,7 +2,7 @@
 <h3 align="center">Explorer | Developer | Coder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Developer+%7C+OpenSource+%7C+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=455&lines=Developer+%7C+OpenSource+%7C+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
