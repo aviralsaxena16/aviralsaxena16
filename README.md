@@ -8,12 +8,12 @@
 ---
 
 ### 🧠 About Me:
-- 🎓 I'm a Computer Science undergrad with a curious mind
-- 🧠 Learning **Machine Learning**, **App Development**, and **DSA**
-- ⚡ Currently working on:  **Campus Connect**, **CanonForces** and Many more...!
-- 💬 Ask me about: Python, JavaScript,MERN, Tailwind CSS, Git, MongoDB
-- 🌱 Goal for 2025: Be **consistent** on Codeforces & contribute to Open source
-- 😄 Pronouns: he/him
+- 🎓 I'm a Computer Science undergrad with a curious mind  
+- 🧠 Learning **Machine Learning**, **App Development**, and **DSA**  
+- ⚡ Currently working on:  **Campus Connect**, **CanonForces**, and many more...!  
+- 💬 Ask me about: Python, JavaScript, MERN, Tailwind CSS, Git, MongoDB  
+- 🌱 Goal for 2025: Be **consistent** on Codeforces & contribute to Open Source  
+- 😄 Pronouns: he/him  
 
 ---
 
@@ -22,16 +22,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aviralsaxena16&theme=algolia&no-bg=true&no-frame=true&column=6" />
+</p>
 
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aviralsaxena16&show_icons=true&theme=github_dark&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralsaxena16&layout=compact&theme=github_dark" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aviralsaxena16&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aviralsaxena16" alt="GitHub Streak" /></a>
 </p>
+
 ---
 
 ### 📫 Let's Connect!
@@ -41,7 +48,3 @@
   <a href="https://www.linkedin.com/in/aviral-saxena-528598320" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://github.com/aviralsaxena16"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
 </p>
-
----
-
-
