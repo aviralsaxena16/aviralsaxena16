@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aviral</h1>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=455&lines=Developer+%7C+OpenSource+%7C+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
----
+
 
 ### 🧠 About Me:
 - 🎓 I'm a Computer Science undergrad with a curious mind  
