@@ -9,7 +9,7 @@
 ### 🧠 About Me:
 - 🎓 I'm a Computer Science undergrad with a curious mind  
 - 🧠 Learning **Machine Learning**, **App Development**, and **DSA**  
-- ⚡ Currently working on:  **Campus Connect**, **CanonForces**, and many more...!  
+- ⚡ Currently working on:  **Find your Cluster**, **CanonForces**, and many more...!  
 - 💬 Ask me about: Python, JavaScript, MERN, Tailwind CSS, Git, MongoDB  
 - 🌱 Goal for 2025: Be **consistent** on Codeforces & contribute to Open Source  
 - 😄 Pronouns: he/him  
