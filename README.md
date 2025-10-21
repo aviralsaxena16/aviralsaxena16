@@ -4,17 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=455&lines=Developer+%7C+OpenSource+%7C+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
-
-
 ### 🧠 About Me:
 - 🎓 I'm a Computer Science undergrad with a curious mind  
-- 🧠 Learning **Machine Learning**, **App Development**, and **DSA**  
-- ⚡ Currently working on:  **Find your Cluster**, **CanonForces**, and many more...!  
-- 💬 Ask me about: Python, JavaScript, MERN, Tailwind CSS, Git, MongoDB  
+- 🧠 Skilled in **Machine Learning**; currently diving into **DevOps**  
+- ⚡ Currently working on: **Campus Companion**, **CanonForces**, and many more...!  
+- 💬 Ask me about: Python, JavaScript, MERN, Tailwind CSS, Git, ML  
 - 🌱 Goal for 2025: Be **consistent** on Codeforces & contribute to Open Source  
-- 😄 Pronouns: he/him  
+
 
 ---
+
 ### 🔧 Tech Stack & Tools:
 <div align="center">
 
@@ -35,6 +34,7 @@
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
 
   <!-- Dev Tools -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
@@ -62,13 +63,13 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
 
   <!-- ML / Data -->
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
 
 </div>
-
 
 ---
 
@@ -98,4 +99,3 @@
   <a href="https://www.linkedin.com/in/aviral-saxena-528598320" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://github.com/aviralsaxena16"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /></a>
 </p>
-
