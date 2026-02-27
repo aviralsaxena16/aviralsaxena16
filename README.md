@@ -8,8 +8,7 @@
 
 ---
 
-### About Me
-I am a Computer Science undergraduate at IIT Bhilai with a strong focus on backend architecture, machine learning, and building robust, testable systems.
+### 🧠 About Me
 
 - ⚡ **Core Focus:** Backend architecture, CI/CD pipelines, containerized systems, and modular software design.
 - 🎓 **Education:** Computer Science undergrad at IIT Bhilai (2023-2027)
