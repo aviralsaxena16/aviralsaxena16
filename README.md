@@ -1,18 +1,20 @@
 <img src="https://komarev.com/ghpvc/?username=aviralsaxena16" width="0" height="0" />
 
-<h1 align="center">Hi 👋, I'm Aviral</h1>
+<h1 align="center">Hi 👋, I'm Aviral Saxena</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=455&lines=Developer+%7C+Open+Source+%7C+ML+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+Open+Source+Contributor+%7C+Backend+%26+Devops" />
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
+I am a Computer Science undergraduate at IIT Bhilai with a strong focus on backend architecture, machine learning, and building robust, testable systems.
+
+- ⚡ **Core Focus:** Backend architecture, CI/CD pipelines, containerized systems, and modular software design.
 - 🎓 **Education:** Computer Science undergrad at IIT Bhilai (2023-2027)
-- ⚡ **Current Focus:** Building **CanonForces**, **CampusCompanion**, and **PixelBrain**
 - 🌱 **2026 Goals:** Consistency on Codeforces + Open Source impact
-- 💬 **Ask me about:** Python, MERN Stack, Git, and Machine Learning
+- 💬 **Ask me about:** Python packaging, FastAPI, CI/CD automation, and MERN stack development.
 
 ---
 
@@ -23,8 +25,6 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aviralsaxena16&show_icons=true&theme=github_dark&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralsaxena16&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
