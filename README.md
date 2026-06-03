@@ -6,12 +6,12 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- ⚡ **Core Focus:** Backend architecture, CI/CD pipelines, containerized systems, and modular software design.
-- 🎓 **Education:** Computer Science undergrad at IIT Bhilai (2023-2027)
-- 🌱 **2026 Goals:** Consistency on Codeforces + Open Source impact
-- 💬 **Ask me about:** Python packaging, FastAPI, CI/CD automation, and MERN stack development.
+I build backend systems that scale. My work spans API design, containerized infrastructure, real-time systems, and AI-powered tooling. I care about clean abstractions, production-readiness, and shipping things that actually work.
+
+Incoming **System Engineer Intern @ Intel** (Jul 2026) and **ASE Intern @ Accenture** (May 2026). Selected from 500+ for C4GT to build Digital Public Infrastructure.
+
 
 ---
 <table border="0" cellpadding="0" cellspacing="5" width="100%">
@@ -54,14 +54,14 @@
 </details>
 
 ---
+<h3 align="center">Let's Connect </h3>
 
-### 📫 Let's Connect
 <p align="center">
   <a href="mailto:avirals@iitbhilai.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-avirals%40iitbhilai.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/aviral-saxena-528598320">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Aviral%20Saxena-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
