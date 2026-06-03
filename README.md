@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aviral Saxena</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+Engineer+%7C+Open+Source+Contributor+%7C+Backend+%26+Devops" />
-</p>
-
----
-
 ### About Me
 
 I build backend systems that scale. My work spans API design, containerized infrastructure, real-time systems, and AI-powered tooling. I care about clean abstractions, production-readiness, and shipping things that actually work.
