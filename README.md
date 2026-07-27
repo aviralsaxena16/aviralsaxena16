@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aviral Saxena</h1>
 
 
----
+
 <table border="0" cellpadding="0" cellspacing="5" width="100%">
   <tr>
     <td align="center" width="50%">
