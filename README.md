@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aviral Saxena</h1>
 
-### About Me
-
-I build backend systems that scale. My work spans API design, containerized infrastructure, real-time systems, and AI-powered tooling. I care about clean abstractions, production-readiness, and shipping things that actually work.
-
-Incoming **System Engineer Intern @ Intel** (Jul 2026) and **ASE Intern @ Accenture** (May 2026). Selected from 500+ for C4GT to build Digital Public Infrastructure.
-
 
 ---
 <table border="0" cellpadding="0" cellspacing="5" width="100%">
